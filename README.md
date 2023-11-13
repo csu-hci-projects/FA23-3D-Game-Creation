@@ -5,6 +5,9 @@ This is the project we developed for the 3d User Interfaces course at CSU in Fal
 Developed by
 
 Dhatri Padakanti
+
 Sahithi Bandi
+
 Lekha Thummala
+
 Krishnavamshi Gujju
