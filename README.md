@@ -8,6 +8,6 @@ Dhatri Padakanti
 
 Sahithi Bandi
 
-Lekha Thummala
+Lekha Tummala
 
 Krishnavamsi Gujju
