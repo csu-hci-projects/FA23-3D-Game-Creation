@@ -8,7 +8,7 @@ Our Approaches:
 
 “Impossible Spaces with Redirected Walking” - to enhance the illusion  
 
-- Imagine your small room has magic portals that leads to other rooms. If you walk through just   right through the walls, it feels like you are in a completely different place. The trick is to make the transition so smooth that you hardly notice the magic happening.
+- Imagine your small room has magic portals that lead to other rooms. If you walk through just   right through the walls, it feels like you are in a completely different place. The trick is to make the transition so smooth that you hardly notice the magic happening.
 
 
 “Overlapping Spaces” - to maximize space
@@ -16,7 +16,7 @@ Our Approaches:
 - Imagine you have a small room in VR and you want to feel like a vast forest with a big mountain. With overlapping spaces, you could arrange the designate different areas of the physical room to a different environment. When you move from one area to another, the VR seamlessly transitions you to different virtual spaces. It feels like multiple worlds in a small room without needing a large physical space.
 
 
-“Procedural VR Environment Generation” - to dynamically create and modify the virtual environment. Eg : No Man’s Sky 
+“Procedural VR Environment Generation” - to dynamically create and modify the virtual environment. Eg: No Man’s Sky 
 
 - One famous example of this is the planets generated in “ No Man’s Sky.” In this game, players can explore 18 quintillion (18,000,000,000,000,000,000) unique planets and moons, which were generated algorithmically by computers.
 
