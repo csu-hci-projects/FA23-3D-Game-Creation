@@ -1,34 +1,30 @@
-# FA23-3D-Redirected-Walking
+# ProjetoVR
 
-This is the project we developed for the 3d User Interfaces course at CSU in Fall 2023. 
-
-Redirected walking is a method in virtual reality locomotion that allows users to navigate a virtual environment much larger than the physical space they have available. In this technique, users are guided through alterations made to the displayed scene, leading them to naturally adjust their position or orientation without realizing it, effectively expanding their exploration within the virtual world. 
-
-Our Approaches:
-
-“Impossible Spaces with Redirected Walking” - to enhance the illusion  
-
-- Imagine your small room has magic portals that lead to other rooms. If you walk through just   right through the walls, it feels like you are in a completely different place. The trick is to make the transition so smooth that you hardly notice the magic happening.
+This is the project we developed for the Virtual Reality course at IST during the first semester of the 2020/2021 year.
+It showcases Impossible Spaces, combined with procedural generation and redirected walking.
 
 
-“Overlapping Spaces” - to maximize space
-
-- Imagine you have a small room in VR and you want to feel like a vast forest with a big mountain. With overlapping spaces, you could arrange the designate different areas of the physical room to a different environment. When you move from one area to another, the VR seamlessly transitions you to different virtual spaces. It feels like multiple worlds in a small room without needing a large physical space.
+Because it exceeded GitHub's file size limit, we will not include the video with the repository. To view it we offer two options:
 
 
-“Procedural VR Environment Generation” - to dynamically create and modify the virtual environment. Eg: No Man’s Sky 
+Unlisted on youtube:
 
-- One famous example of this is the planets generated in “ No Man’s Sky.” In this game, players can explore 18 quintillion (18,000,000,000,000,000,000) unique planets and moons, which were generated algorithmically by computers.
+https://youtu.be/3-oJ6-lNBPQ
 
-- The amazing thing about procedural generation is that infinite unique possibilities.
+On Google Drive (you can download it here):
 
+https://drive.google.com/file/d/1eItwmyEZu6Y7TCWhHZSBpwYkvSdgY8tY/view?usp=sharing
 
-Developed by
+To run the project, just build it and transfer it to the Oculus Quest. No configuration is needed.
 
-Dhatri Padakanti
+Further details such as how to scale rooms are explained in the report accompanying this repository.
 
-Sahithi Bandi
+The project was developed by:
 
-Lekha Tummala
+Bernardo Pinto 
 
-Krishnavamsi Gujju
+Carlos Marques 
+
+Hélio Martins
+
+Miguel Malheiro
