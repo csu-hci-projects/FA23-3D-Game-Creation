@@ -22,7 +22,7 @@ Our Approaches:
 
 - The amazing thing about procedural generation is that infinite unique possibilities.
 
-- To execute the project, simply compile it and then transfer the built files to the Oculus Quest device.
+To execute the project, simply compile it and then transfer the built files to the Oculus Quest device.
 
 Links:
 - high-level overview of the project video: https://youtu.be/a9QTuwMq7Gs
