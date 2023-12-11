@@ -22,6 +22,10 @@ Our Approaches:
 
 - The amazing thing about procedural generation is that infinite unique possibilities.
 
+- high-level overview of the project video: https://youtu.be/a9QTuwMq7Gs
+- Project Explaination: https://youtu.be/ZRTzce3gF80
+  
+
 
 Developed by
 
