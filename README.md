@@ -38,7 +38,9 @@ To execute the project, simply compile it and then transfer the built files to t
 # Links:
 - high-level overview of the project video: https://youtu.be/a9QTuwMq7Gs
 - Project Explaination: https://youtu.be/ZRTzce3gF80
+- Demo+Code Video: https://www.youtube.com/watch?v=KUlOuCMhk30&ab_channel=SahithiBandi
 - Code WalkThrough: https://youtu.be/JsoWt0L7ncA
+- Demonstration Video: https://youtube.com/shorts/ONzXSEOqjBQ?feature=share
 - Overleaf Link for our project Report: https://www.overleaf.com/read/fczxjdhxfmsg#48864a
   
   
