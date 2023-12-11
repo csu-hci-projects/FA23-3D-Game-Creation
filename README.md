@@ -22,9 +22,11 @@ Our Approaches:
 
 - The amazing thing about procedural generation is that infinite unique possibilities.
 
+Links:
 - high-level overview of the project video: https://youtu.be/a9QTuwMq7Gs
 - Project Explaination: https://youtu.be/ZRTzce3gF80
 - Code WalkThrough: https://youtu.be/JsoWt0L7ncA
+- Overleaf Link for our project Report: https://www.overleaf.com/read/fczxjdhxfmsg#48864a
   
   
 
