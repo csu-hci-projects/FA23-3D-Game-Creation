@@ -24,6 +24,17 @@ Redirected walking is a method in virtual reality locomotion that allows users t
 
 To execute the project, simply compile it and then transfer the built files to the Oculus Quest device.
 
+# Software Requirements
+
+- Unity 3D: For asset management, scripting, and project building.
+- Oculus Integration: For VR compatibility and spatial audio settings.
+- Additional libraries or packages for specific features like the OAS lip sync engine.
+
+# Hardware Requirements
+
+- Oculus Quest: As the VR headset for deploying and testing the project.
+- A computer capable of running Unity 3D and handling VR development tasks.
+
 # Links:
 - high-level overview of the project video: https://youtu.be/a9QTuwMq7Gs
 - Project Explaination: https://youtu.be/ZRTzce3gF80
