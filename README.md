@@ -4,7 +4,7 @@ This is the project we developed for the 3d User Interfaces course at CSU in Fal
 
 Redirected walking is a method in virtual reality locomotion that allows users to navigate a virtual environment much larger than the physical space they have available. In this technique, users are guided through alterations made to the displayed scene, leading them to naturally adjust their position or orientation without realizing it, effectively expanding their exploration within the virtual world. 
 
-Our Approaches:
+# Our Approaches:
 
 “Impossible Spaces with Redirected Walking” - to enhance the illusion  
 
@@ -24,7 +24,7 @@ Our Approaches:
 
 To execute the project, simply compile it and then transfer the built files to the Oculus Quest device.
 
-Links:
+# Links:
 - high-level overview of the project video: https://youtu.be/a9QTuwMq7Gs
 - Project Explaination: https://youtu.be/ZRTzce3gF80
 - Code WalkThrough: https://youtu.be/JsoWt0L7ncA
@@ -33,7 +33,7 @@ Links:
   
 
 
-Developed by
+# Developed by
 
 Dhatri Padakanti
 
